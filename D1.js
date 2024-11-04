@@ -12,6 +12,13 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+// String è come si fosse la "class di Html" possiamo mettere dei nome senza mettere "let o var"
+let myPrimoTesto = "Hello world!";
+console.log(myPrimoTesto); //consolo.log serve per vedere sul browser la corretteza.
+//abbiamo i valori numerici interemo e decimale
+let anno = 2024;
+//Ci sono anche i boolean pero dare dei valori true e false!
+
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
@@ -76,4 +83,4 @@ console.log("sottrazione di x e il number1:", risposta);
 let name1 = "john";
 let name2 = "John";
 console.log(name1==name2);
-console.log(name1!==name2);
+console.log(name1!==name2); //!== il valore cambia 
